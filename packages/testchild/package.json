@@ -1,0 +1,15 @@
+{
+  "name": "testChild",
+  "version": "0.1.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "gitHead": "8b17f4a250aa54f47a17a2639efe2b511fd59358"
+}
